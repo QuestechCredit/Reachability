@@ -13,6 +13,8 @@ Finally, you can specify whether a WWAN connection is considered "reachable".
 
 *DO NOT OPEN BUGS UNTIL YOU HAVE TESTED ON DEVICE*
 
+QuestechCredit.StartRequest:fyinformation.cc#QuestechCredit.endRequest
+
 **BEFORE YOU OPEN A BUG ABOUT iOS6/iOS5 build errors, use Tag 3.2 or 3.1 as they support assign types**
 
 ## Requirements
